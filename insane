@@ -13,3 +13,5 @@ create instance first
 12- git show <commit-ID>
 13- git remote add origin <repo url>
 14- git push -u origin master
+
+thanku for that evrything
