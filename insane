@@ -1,0 +1,15 @@
+create instance first
+1- install git on machine
+2- git config --global user.name <username>
+3- git config --global user.email <useremail>
+4-make a directory or folder - mkdir <dir.name>
+5- initialized git in this folder/dir. - git init
+6- create file through nano/cat/touch/vim - nano <file name>
+7- git status
+8- git add .
+9- git commit -m "Comment"
+10- git status
+11- git log
+12- git show <commit-ID>
+13- git remote add origin <repo url>
+14- git push -u origin master
